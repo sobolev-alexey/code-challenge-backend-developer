@@ -5,8 +5,7 @@ Messaging acronyms are everywhere now. Do you know all of them?
 Build a REST API for the **World Texting Foundation**, also known as **WTF**.
 
 A sample JSON data file will be provided with a base set of acronym definitions. We expect you to create a NodeJS server
-using modern best practices for API development. Please consider the recommendations attached as this will list the
-items we are looking for above.
+using modern best practices for API development and testing.
 You can use docker & docker-compose if needed.
 
 These endpoints should be created:
